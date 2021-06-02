@@ -80,11 +80,11 @@ Is there a Grafana dashboard available ? Of course!
 **GMod** : Coming
 
 
-### Support
+[comment]: # ### Support
 
-If you encounter any issue, feel free to open an issue.
-If you want to contact me :
+[comment]: # If you encounter any issue, feel free to open an issue.
+[comment]: # If you want to contact me :
 
-* Twitter : [@Unyxos](https://twitter.com/Unyxos)
-* Discord : Unyxos#1337
-* Email : [me@corentincloss.fr](mailto://me@corentincloss.fr)
+[comment]: # * Twitter : [@Unyxos](https://twitter.com/Unyxos)
+[comment]: # * Discord : Unyxos#1337
+[comment]: # * Email : [me@corentincloss.fr](mailto://me@corentincloss.fr)
