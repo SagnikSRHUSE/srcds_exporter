@@ -78,13 +78,3 @@ Is there a Grafana dashboard available ? Of course!
 **CSGO** : https://grafana.com/grafana/dashboards/11333
 
 **GMod** : Coming
-
-
-[comment]: # ### Support
-
-[comment]: # If you encounter any issue, feel free to open an issue.
-[comment]: # If you want to contact me :
-
-[comment]: # * Twitter : [@Unyxos](https://twitter.com/Unyxos)
-[comment]: # * Discord : Unyxos#1337
-[comment]: # * Email : [me@corentincloss.fr](mailto://me@corentincloss.fr)
